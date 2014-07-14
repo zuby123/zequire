@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  colour: MyString
+  thickness: MyString
+  quantity: 1
+  delivery_date: 2014-07-14 14:40:56
+  user_id: 
+  response_id: 
+
+two:
+  type: 
+  colour: MyString
+  thickness: MyString
+  quantity: 1
+  delivery_date: 2014-07-14 14:40:56
+  user_id: 
+  response_id: 
