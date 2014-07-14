@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price_exc_vat: 9.99
+  vat: 9.99
+  delivery_cost: 9.99
+  delivery_date: 2014-07-14 14:40:53
+
+two:
+  price_exc_vat: 9.99
+  vat: 9.99
+  delivery_cost: 9.99
+  delivery_date: 2014-07-14 14:40:53
